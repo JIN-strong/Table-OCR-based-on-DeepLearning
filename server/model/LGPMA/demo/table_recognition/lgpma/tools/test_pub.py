@@ -9,7 +9,7 @@
 ##################################################################################################
 """
 import sys
-sys.path.append('/home/lcw/PycharmProjects/bishe/Table_OCR/model/LGPMA/')
+sys.path.append('model/LGPMA')
 import cv2
 import json
 import jsonlines
@@ -70,3 +70,4 @@ for data in test_file:
 teds = TEDS(structure_only=True, n_jobs=16)
 scores = teds.batch_evaluate(pred_dict, gt_dict)
 print(np.array(list(scores.values())).mean())
+

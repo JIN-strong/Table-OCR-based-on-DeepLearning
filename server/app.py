@@ -82,7 +82,6 @@ def layout_rec(image, threshold_):
 def table_rec_RARE(uploaded_file):
     arg_dic_pd["output"] = 'output/' + cookies + "/down/"
     arg_dic_pd["image_dir"] = 'output/' + cookies + "/up/"
-
     index_save = RARE.pd_ocr(arg_dic=arg_dic_pd)
     return index_save
 
