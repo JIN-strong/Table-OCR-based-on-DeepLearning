@@ -1,6 +1,6 @@
 # 基于深度学习的印刷体表格识别和表结构检测
 
-- 基于cascade Mask R-CNN实现了表格检测，基于LGPAM模型和RARE模型，实现了表结构识别。
+- 基于cascade Mask R-CNN实现了表格检测，基于LGPAM模型和RARE模型，采用实例分割和序列到序列两种方法实现了表结构识别。
 - 基于Streamlit实现了Web网页
 - demo见example/demo.mp4
 
