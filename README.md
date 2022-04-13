@@ -5,14 +5,14 @@
 
 <img src="example\ex1_out.png" alt="ex1_out" style="zoom: 67%;" />
 
-![ex2](example\ex2.png)
+<img src="example\ex2.png" alt="ex2" style="zoom:80%;" />
 
-![ex2_out_1](example\ex2_out_1.png)
+<img src="example\ex2_out_1.png" alt="ex2_out_1" style="zoom:80%;" />
 
-![ex2_out_2](example\ex2_out_2.png)
+<img src="example\ex2_out_2.png" alt="ex2_out_2" style="zoom:80%;" />
 
-![ex3](example\ex3.png)
+<img src="example\ex3.png" alt="ex3" style="zoom:50%;" />
 
-![ex3_out_1](example\ex3_out_1.png)
+<img src="example\ex3_out_1.png" alt="ex3_out_1" style="zoom:50%;" />
 
-![ex3_out_2](example\ex3_out_2.png)
+<img src="example\ex3_out_2.png" alt="ex3_out_2" style="zoom:67%;" />
