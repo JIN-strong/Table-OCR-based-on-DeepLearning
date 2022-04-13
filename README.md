@@ -2,6 +2,7 @@
 
 - 基于cascade Mask R-CNN实现了表格检测，基于LGPAM模型和RARE模型，实现了表结构识别。
 - 基于Streamlit实现了Web网页
+- demo见example/demo.mp4
 
 <img src="example\ex1_out.png" alt="ex1_out" style="zoom: 67%;" />
 
